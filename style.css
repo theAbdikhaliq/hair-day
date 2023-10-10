@@ -1,0 +1,109 @@
+/* Reset default browser styles */
+html, body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    text-align: center;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  li {
+    align-items: center;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Main Styles */
+  .promotional-banner {
+    background-color: #eee;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .promotional-banner h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  .promotional-banner p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .column {
+    display: inline-block;
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  .column img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .column h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  img {
+    width: 200px;
+  }
+  
+  .column p {
+    font-size: 16px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    display: flex;
+  }
+  
+  .footer-column {
+    flex: 1;
+  }
+  
+  .footer-column img {
+    width: 50px;
+    height: auto;
+  }
+  
+  .footer-column p {
+    font-size: 14px;
+    color: #777;
+  }
