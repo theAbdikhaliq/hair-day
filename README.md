@@ -22,5 +22,5 @@ This project is released under the MIT license.
 
 ### Contact
 
-If you have any questions or suggestions, please feel free to contact me at <a href="mailto:abdikhaliq.developer@gmail.com" target="_blank">[email protected]</a>
+If you have any questions or suggestions, please feel free to contact me at <a href="mailto:theabdikhaliq@gmail.com" target="_blank">[email protected]</a>
 
